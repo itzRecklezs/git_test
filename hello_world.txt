@@ -1,1 +1,2 @@
 Just following instructions
+Im just trying to add messages for git commit command
